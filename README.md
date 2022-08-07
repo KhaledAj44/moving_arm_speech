@@ -1,1 +1,0 @@
-# moving_arm_speech
